@@ -1,4 +1,4 @@
-# gulp-if-env
+# gulp-if-env [![Build Status](https://travis-ci.org/arcreative/gulp-if-env.svg?branch=master)](https://travis-ci.org/arcreative/gulp-if-env)
 
 A gulp plugin to conditionally run tasks for one or more environments.
 
