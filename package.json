@@ -1,0 +1,37 @@
+{
+  "name": "gulp-if-env",
+  "version": "0.0.1",
+  "description": "Library for environment-specific Gulp tasks",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./index.js ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcreative/gulp-if-env.git"
+  },
+  "author": "Adam Robertson <adam@arcreative.net>",
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "environment",
+    "environments",
+    "env"
+  ],
+  "bugs": {
+    "url": "https://github.com/arcreative/gulp-if-env/issues"
+  },
+  "homepage": "https://github.com/arcreative/gulp-if-env#readme",
+  "dependencies": {
+    "gulp-if": "^2.0.0",
+    "yargs": "^5.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "gulp-replace": "^0.6.1",
+    "mocha": "^3.4.2"
+  }
+}
