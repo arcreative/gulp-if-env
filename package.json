@@ -17,9 +17,10 @@
   "license": "MIT",
   "keywords": [
     "gulp",
+    "gulpplugin",
+    "env",
     "environment",
-    "environments",
-    "env"
+    "environments"
   ],
   "bugs": {
     "url": "https://github.com/arcreative/gulp-if-env/issues"
