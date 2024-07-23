@@ -1,6 +1,6 @@
 {
   "name": "gulp-if-env",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gulp plugin for environment-specific tasks",
   "main": "index.js",
   "directories": {
